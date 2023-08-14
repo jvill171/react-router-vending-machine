@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-router-vending-machine/static/css/main.1e36311f.css",
+    "main.js": "/react-router-vending-machine/static/js/main.ae336a59.js",
+    "static/js/787.3cd04510.chunk.js": "/react-router-vending-machine/static/js/787.3cd04510.chunk.js",
+    "index.html": "/react-router-vending-machine/index.html",
+    "main.1e36311f.css.map": "/react-router-vending-machine/static/css/main.1e36311f.css.map",
+    "main.ae336a59.js.map": "/react-router-vending-machine/static/js/main.ae336a59.js.map",
+    "787.3cd04510.chunk.js.map": "/react-router-vending-machine/static/js/787.3cd04510.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1e36311f.css",
+    "static/js/main.ae336a59.js"
+  ]
+}
